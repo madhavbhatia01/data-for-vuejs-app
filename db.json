@@ -1,11 +1,9 @@
 {
-  "posts": [
+  users:[
     {
-      "id": 1,
-      "title": "hello"
+      "email": "johntrump@gmail.com",
+      "password": "asdfghjkl",
+      "name": "John Trump",
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
